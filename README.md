@@ -1,7 +1,5 @@
-# Feedback-react
-
 ## About
-Feedback-react is a lightweight web application built with React, designed to collect and manage user feedback efficiently. It features a clean, responsive interface for submitting and viewing feedback, ideal for small-scale projects or user testing.
+A lightweight web application built with React, designed to collect and manage user feedback efficiently. It features a clean, responsive interface for submitting and viewing feedback.
 
 ## Demo
 [**Try Feedback-react Live**](https://feedback-react-i.netlify.app/)
