@@ -1,8 +1,8 @@
 ## About
-A lightweight web application built with React, designed to collect and manage user feedback efficiently. It features a clean, responsive interface for submitting and viewing feedback.
+A lightweight web application built with React, designed to collect and manage user feedback efficiently.
 
 ## Demo
-[**Try Feedback-react Live**](https://feedback-react-i.netlify.app/)
+[**Try It Live**](https://feedback-react-i.netlify.app/)
 
 ## Features
 - **Feedback Submission**: Easily submit feedback through a simple form.
